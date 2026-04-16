@@ -1,4 +1,5 @@
-# 8 point fft
+
+# Exp 7  8 point fft
 ``` matlab
 clc;
 clear all;
